@@ -1,11 +1,21 @@
 [
   {
     "title1": "શિક્ષણ અંગેની યોજનાઓ",
-      "sub1": "subtitle1",
-      "sub2": "subtitle2",
-      "sub3": "subtitle3",
-      "sub4": "subtitle4"
+    "subtitle": [
+      {
+      "sub1": "subtitle1"
       },
+      {
+      "sub2": "subtitle2"
+      },
+      {
+      "sub3": "subtitle3"
+      },
+      {
+      "sub4": "subtitle4"
+      }
+    ]
+  },
   {
     "title2": "જાહેર આરોગ્ય અંગેની યોજનાઓ"
   },
