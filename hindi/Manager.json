@@ -1,4 +1,4 @@
 {
-    "AdsManager": false,
-    "AdPlus" : false
+    "AdsManager": true,
+    "AdPlus" : true
 }
