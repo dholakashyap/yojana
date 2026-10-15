@@ -1,0 +1,29 @@
+{
+ "schema": 1,
+ "apps": [
+  {
+   "id": "com.dk.sarkariyojana",
+   "title": "Sarkari Yojana - સરકારી યોજના",
+   "subtitle": "सरकारी योजनाओं की जानकारी गुजराती में",
+   "icon": "https://play-lh.googleusercontent.com/XS22ze0dxCBY8WFL1uLcaCdQgld1lC1S5IysVAdg5gdFFjxjWJfym0HcdibNqFqQjS425LXoLylbXoVHPCMw=s192"
+  },
+  {
+   "id": "com.dhola.talati",
+   "title": "Talati Exam Preparation",
+   "subtitle": "तलाटी परीक्षा की तैयारी: अध्ययन सामग्री, क्विज़ और सिलेबस",
+   "icon": "https://play-lh.googleusercontent.com/V9dtps8BaLFY3V-Cd0DBzA3WmCrkfy6TWObJYdt4qGBYOD0_o6iePODHqMeCFM865xKeD90fc55apNzSFhGJ-g=s192"
+  },
+  {
+   "id": "com.pluslabs.gtupapers",
+   "title": "GTU Exam: Previous Year Papers",
+   "subtitle": "GTU के पुराने प्रश्न पत्र एक ही जगह",
+   "icon": "https://play-lh.googleusercontent.com/YlNlf0Du013FkqDx8lOQOfcPgoRdN1tT7DVStSAzvzx0TZjRjgiNeIZaq6wq76CWLVlSrAhXMPL2dQyJYzVy=s192"
+  },
+  {
+   "id": "com.plusinfolab.jeeapp",
+   "title": "JEE Exam Syllabus",
+   "subtitle": "JEE परीक्षा का पूरा सिलेबस",
+   "icon": "https://play-lh.googleusercontent.com/ec8YQ5OfGmzLclfAFhWRug3CxJOpyYlXYTYQB1Z1KedO5khsfelL97fdVr5TqRSA9rJExROCFNWd4sI_JmfyfQ=s192"
+  }
+ ]
+}
