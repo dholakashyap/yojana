@@ -1,0 +1,10 @@
+{
+ "schema": 1,
+ "ads": {
+  "admob": true,
+  "adplus": true,
+  "interstitialCooldownSeconds": 0,
+  "inlineAdAfterSection": 2,
+  "units": {}
+ }
+}
