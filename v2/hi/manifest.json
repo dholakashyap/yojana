@@ -3,7 +3,7 @@
  "ads": {
   "admob": true,
   "adplus": true,
-  "interstitialCooldownSeconds": 0,
+  "interstitialCooldownSeconds": 60,
   "inlineAdAfterSection": 2,
   "units": {}
  }
