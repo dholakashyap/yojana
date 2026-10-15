@@ -1,0 +1,29 @@
+{
+ "schema": 1,
+ "apps": [
+  {
+   "id": "com.dhola.talati",
+   "title": "Talati Exam Preparation",
+   "subtitle": "તલાટી પરીક્ષાની તૈયારી: અભ્યાસ સામગ્રી, ક્વિઝ અને સિલેબસ",
+   "icon": "https://play-lh.googleusercontent.com/V9dtps8BaLFY3V-Cd0DBzA3WmCrkfy6TWObJYdt4qGBYOD0_o6iePODHqMeCFM865xKeD90fc55apNzSFhGJ-g=s192"
+  },
+  {
+   "id": "com.pluslabs.gtupapers",
+   "title": "GTU Exam: Previous Year Papers",
+   "subtitle": "GTU ના જૂના પેપર્સ એક જ જગ્યાએ",
+   "icon": "https://play-lh.googleusercontent.com/YlNlf0Du013FkqDx8lOQOfcPgoRdN1tT7DVStSAzvzx0TZjRjgiNeIZaq6wq76CWLVlSrAhXMPL2dQyJYzVy=s192"
+  },
+  {
+   "id": "com.dhola.sarkariyojana",
+   "title": "Sarkari Yojana - सरकारी योजना",
+   "subtitle": "સરકારી યોજનાઓની માહિતી હિન્દીમાં",
+   "icon": "https://play-lh.googleusercontent.com/XhjTLPKygcMCj2bxIBoQSnNrXDphrNS7aVCiDtsbFGpnKClkQeyXVHad98COM2ZE4P6-Rfy9bMPMpVTE-PlF=s192"
+  },
+  {
+   "id": "com.plusinfolab.jeeapp",
+   "title": "JEE Exam Syllabus",
+   "subtitle": "JEE પરીક્ષાનો સંપૂર્ણ સિલેબસ",
+   "icon": "https://play-lh.googleusercontent.com/ec8YQ5OfGmzLclfAFhWRug3CxJOpyYlXYTYQB1Z1KedO5khsfelL97fdVr5TqRSA9rJExROCFNWd4sI_JmfyfQ=s192"
+  }
+ ]
+}
