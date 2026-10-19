@@ -1,8 +1,8 @@
 {
  "schema": 1,
  "ads": {
-  "admob": true,
-  "adplus": true,
+  "admob": false,
+  "adplus": false,
   "interstitialCooldownSeconds": 60,
   "inlineAdAfterSection": 2,
   "units": {}
